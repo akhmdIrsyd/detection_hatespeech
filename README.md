@@ -1,2 +1,2 @@
-# Hate Speech Detection Using Long-Short Term Memory (LSTM) and Gate Recurrent Unit (GRU) on Indonesian Language Twitter
-citate the code : <a href="https://zenodo.org/badge/latestdoi/451727590"><img src="https://zenodo.org/badge/451727590.svg" alt="DOI"></a>
+# Code and Dataset for Detecting Hate Speech on Indonesian Twitter
+citate the code :[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5901792.svg)](https://doi.org/10.5281/zenodo.5901792)
